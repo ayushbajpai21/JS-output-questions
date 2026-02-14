@@ -1,4 +1,4 @@
-const str = 'hello sir how are you what are you doing right now ';
+const str = 'hello sir how are you what are you doing right now and what you teach ';
 const vowels = ['a','e','i','o','u'];
 
 function countvowel(data){
