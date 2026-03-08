@@ -1,3 +1,4 @@
+// merge 2 arrays and return a sorted array 
 let arr1=[1,0,5];
 let arr2=[3,4,6];
 
